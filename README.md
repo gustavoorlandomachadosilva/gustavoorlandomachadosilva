@@ -1,9 +1,10 @@
-### Olá, eu sou o Gustavo Orlando ✌️
+### Olá, eu sou o Gustavo Orlando ✌️🤠
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-orlando/)
 [![Indeed](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://profile.indeed.com/document/view)
 
 ![Gustavo Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoorlandomachadosilva&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoorlandomachadosilva&layout=compact)
 ## Tecnologias que eu uso no meu dia a dia
 <div style = "display: inline_block"><br/>
   <img align = " center" alt = "php" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
