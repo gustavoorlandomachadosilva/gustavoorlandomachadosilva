@@ -1,17 +1,20 @@
 ### Olá, eu sou o Gustavo Orlando ✌️🤠
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-orlando/)
 [![Indeed](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://profile.indeed.com/document/view)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ![Gustavo Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoorlandomachadosilva&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoorlandomachadosilva&layout=compact)
 ## Tecnologias que eu uso no meu dia a dia
 <div style = "display: inline_block"><br/>
-  <img align = " center" alt = "php" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align = " center" alt = "Php" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align = " center" alt = "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align = " center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align = " center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align = " center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align = " center" alt = "Unity3D" src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+
 </div>
 
 ### SGBD's
