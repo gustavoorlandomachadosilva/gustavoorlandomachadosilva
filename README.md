@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo Orlando ✌️🤠
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-orlando/)
 [![Indeed](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://profile.indeed.com/document/view)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ![Gustavo Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoorlandomachadosilva&show_icons=true&theme=dracula)
 
